@@ -10,7 +10,7 @@ This repo contains the CrossDK interface for Unity. It allows you to cross-promo
 
 **iOS** version **>= 11.0**
 
-CrossDK for Unity is available with iOS 11 minimal target version, but the `CrossDKOverlay` is only available since iOS 14. CrossDK provides support in order to handle cases where the `CrossDKOverlay ` is not available (see [Overlay Delegate](#overlay-delegate)).
+CrossDK for Unity is available with iOS 11 minimal target version, but the `CrossDKOverlay` is only available since iOS 14. CrossDK provides support in order to handle cases where the `CrossDKOverlay` is not available (see [Overlay Delegate](#overlay-delegate)).
 
 ## Installation
 
