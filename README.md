@@ -28,7 +28,7 @@ If you already use CocoaPods in your Unity project, you should consider adding y
 
 ## Configuration
 
-To use CrossDK in your Unity project, you must download the `CrossDK.unitypackage` on the [releases page](), then import it into your project. Once it's finished, drag the **CrossDK prefab** (located in `Assets\CrossDK\CrossDK`) into your scene. 
+To use CrossDK in your Unity project, you must download the `CrossDK.unitypackage` on the [releases page](https://github.com/Adikteev/crossdk-unity-ios/releases), then import it into your project. Once it's finished, drag the **CrossDK prefab** (located in `Assets\CrossDK\CrossDK`) into your scene. 
 
 All the methods you'll need to call are in the `CrossDKSingleton` script on this prefab, and they all are public and static. Thus, you can call them from anywhere at anytime just by adding `import CrossDK;` at the top of any script.
 
