@@ -1,5 +1,10 @@
 # CrossDK for Unity
 
+## Warning
+
+<span style="color:red">**This repository is now deprecated.** Please visit the new repository, supporting both iOS and Android :</span>
+[https://github.com/Adikteev/crossdk-unity](https://github.com/Adikteev/crossdk-unity)
+
 ## Overview
 
 This repo contains the CrossDK interface for Unity. It allows you to cross-promote your application catalog in your Unity project.
